@@ -1,0 +1,17 @@
+{
+    "name": "moove",
+    "version": "1.0.0",
+    "description": "Sistema di micromobilità condivisa Moove",
+    "main": "dist/main.js",
+    "scripts": {
+      "build": "tsc",
+      "start": "node dist/main.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "^4.5.4"
+    },
+    "author": "",
+    "license": "ISC"
+}
+  
